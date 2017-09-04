@@ -102,3 +102,7 @@ ENV/
 
 # Pycharm
 .idea/
+
+# API Keys
+secret.json
+FakePoolsRealTolls/
